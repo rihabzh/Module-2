@@ -41,5 +41,7 @@ pas(n)
 ```
 ## Sample Output
 
+![alt text](<Screenshot 2026-03-26 160524.png>)
+
 ## Result
 The program successfully generates Pascal's Triangle with the specified number of rows, using the appropriate formula for combination values.
