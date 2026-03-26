@@ -17,6 +17,7 @@ result=f(a,b)
 print(result)
 ```
 ## Output
+![alt text](<Screenshot 2026-03-26 160513.png>) 
 
 ## Result
 The program successfully defines a lambda function that computes the sum of two numbers and prints the result.
