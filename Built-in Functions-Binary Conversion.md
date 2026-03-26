@@ -15,3 +15,4 @@ print(bin(a))
 ## Output
 
 ## Result
+The program successfully converts the number 16 into its binary representation and prints it.
