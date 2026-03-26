@@ -31,6 +31,6 @@ else:
     print(f"{num} is not a palindrome.")
 ```
 ## Output
-
+![alt text](<Screenshot 2026-03-26 160534.png>) 
 ## Result
 The program successfully checks if a given number is a palindrome by reversing its digits and comparing it to the original number.
