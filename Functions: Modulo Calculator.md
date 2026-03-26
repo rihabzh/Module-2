@@ -19,6 +19,6 @@ b = int(input())
 print(result(a, b))
 ```
 ## Output
-
+![alt text](<Screenshot 2026-03-26 160504.png>)  
 ## Result
 The program successfully defines a function that computes the modulo of two numbers and returns the result.
