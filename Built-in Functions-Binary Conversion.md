@@ -14,6 +14,6 @@ a=int(input())
 print(bin(a))
 ```
 ## Output
-
+![alt text](<Screenshot 2026-03-26 143121.png>)
 ## Result
 The program successfully converts the number 16 into its binary representation and prints it.
